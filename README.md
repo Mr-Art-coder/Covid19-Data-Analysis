@@ -64,8 +64,12 @@ The data was analyzed using different visualization which include the following.
 
 Although Covid19 erupted from China, the county is not among the top 10 affected regions, USA has the highest record of confirmed cases of 30billion and had the highest record of death rate of 454million.   Even though USA is the most affected region, the region which had the highest record of recovery is India with the total number of 5billion out of the 18billion affected.
 Findings showcase that China where the viruses erupted from was less affected because the country imposed heavy restrictions immediately in other to stop the spread of the virus. USA is a mega country so that is the reason why it has the highest number of confirmed cases. If India can quickly recover from the pandemic which makes the have the highest record of recovery, then I will recommend USA to liaises with India in other to reduce the death rate in the country.
-# Color
-The pandemic represent danger and atrocity, so black and red was used in the report.
+
+----
+----
+
+Connect with me on [Twitter](https://twitter.com/Mr_Art_officia)
+
 
 
 
