@@ -43,7 +43,8 @@ Hierarchy was created for both date and country/region in other to drill down to
 # Data Analysis and Visualization
 The data was analyzed using different visualization which include the following.
 - Card: To determine the total number death, confirmed and recovered cases and to also showcase the country with high rate of confirmation cases
-![Cards](https://github.com/Mr-Art-coder/Covid19-Data-Analysis/blob/main/Cards.JPG) ![Cards](https://github.com/Mr-Art-coder/Covid19-Data-Analysis/blob/main/Cards.JPG)
+
+![Cards](https://github.com/Mr-Art-coder/Covid19-Data-Analysis/blob/main/Cards.JPG) ![Cards](https://github.com/Mr-Art-coder/Covid19-Data-Analysis/blob/main/Card%20Most%20Affected.JPG)
 
 - Line Chart: Line chart was used to visualize top 10 death record according to countries.
 ![Line Chart](https://github.com/Mr-Art-coder/Covid19-Data-Analysis/blob/main/Line%20Chart.JPG)
