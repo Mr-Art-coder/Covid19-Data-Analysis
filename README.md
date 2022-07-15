@@ -57,6 +57,9 @@ The data were analyzed using different visualization which includes the followin
 
 - Slicer: To filter the record according to date.
 
+-Map: This represents the geographical representation of the location.
+![Map](https://github.com/Mr-Art-coder/Covid19-Data-Analysis/blob/main/map.JPG)
+
 ----
 
 # Findings and Recommendation
